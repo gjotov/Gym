@@ -38,7 +38,6 @@ Gym - это WPF приложение для управления клиента
 
 ## Используемые технологии
 
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)  - Основной язык программирования.
 - ![WPF](https://img.shields.io/badge/-WPF-5C2D91?logo=windows&logoColor=white&style=for-the-badge)  - Windows Presentation Foundation для создания графического интерфейса.
 - ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)  - Использование .NET Framework 4.8.
 - ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)  - База данных для хранения информации.
